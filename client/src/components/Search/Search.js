@@ -15,7 +15,7 @@ export function SubmitBtn(props) {
       {...props}
       className="btn submitBtn"
       style={{
-        backgroundColor: "#2196f3",
+        backgroundColor: "#2e614d",
         color: "white",
         marginBottom: "10px",
       }}
